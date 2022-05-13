@@ -1,0 +1,14 @@
+@media (max-width: 900px) {
+
+    .relogio {
+        flex-direction: column;
+        height: 550px;
+        width: 200px;
+        padding: 10px 0 10px 0;
+    }
+
+    .relogio div {
+        height: 150px;
+        width: 150px;
+    }
+}
